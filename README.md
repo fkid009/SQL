@@ -20,7 +20,15 @@ MySQL을 공부하기 위한 목적으로 내용을 정리하고 있습니다.
 
 # Install MySQL
 1. Download File
-- [MySQL 파일 다운로드](https://dev.mysql.com/downloads/installer/)
+   [MySQL 파일 다운로드](https://dev.mysql.com/downloads/installer/)
+   (※ 파일 크기가 큰것으로 다운받으시면 됩니다.)
+
+3. Install file
+   필요한 옵션에 맞게 설치를 진행해 주시면 됩니다.
+   (※ 중간에 비밀번호를 설정하는 곳이 나오게 되는데, 설정한 비밀번호를 잊어버리면 변경하기 어려우니 꼭 기억하시길 바랍니다.)
+
+# 
+
    
 
 
