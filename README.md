@@ -27,7 +27,12 @@ MySQL을 공부하기 위한 목적으로 내용을 정리하고 있습니다.
    필요한 옵션에 맞게 설치를 진행해 주시면 됩니다.
    (※ 중간에 비밀번호를 설정하는 곳이 나오게 되는데, 설정한 비밀번호를 잊어버리면 변경하기 어려우니 꼭 기억하시길 바랍니다.)
 
-# 
+# Start
+1. Connect Server
+  MySQL에 들어가셔서 MySQL Connections 옆의 "플러스" 부분을 클릭하여 자신이 원하는 Connection Name을 지정하고, 이를 Hostname에 붙여넣습니다. 그리고 password에 설치할 당시 입력했던 password를 입력하고 OK로 마무리를 합니다.
+2. Generate Schemas
+   위에서 만든 서버에 접속해서 schemas 창에서 우클릭을 통해 새 schema를 생성하게 되면 tables 등 다양한 아이콘이 나타나게 됩니다.
+  
 
    
 
