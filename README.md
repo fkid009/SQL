@@ -30,7 +30,7 @@ Database에는 여러가지 방식이 있지만, 자주 사용되는 방식은 "
 
 따라서, 공통 키를 기준으로 Orders와 더불어 소비자의 정보가 담긴 테이블, 아이템의 정보가 담긴 테이블 등 테이블을 나눠주는 것이 효율적일 것입니다. 
 즉, 이처럼 테이블 간의 특정 관계로 묶여져 데이터베이스를 형성하는 것이 Relational Database입니다. 
-<img src="https://planetscale.com/_next/image?url=%2Fassets%2Fblog%2Fcontent%2Fschema-design-101-relational-databases%2Fdb72cc3ac506bec544588454972113c4dc3abe50-1953x1576.png&w=1080&q=75" width="100", height="100"/>
+<img src="https://planetscale.com/_next/image?url=%2Fassets%2Fblog%2Fcontent%2Fschema-design-101-relational-databases%2Fdb72cc3ac506bec544588454972113c4dc3abe50-1953x1576.png" width="100", height="100"/>
 
 
 
