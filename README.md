@@ -32,7 +32,16 @@ MySQL을 공부하기 위한 목적으로 내용을 정리하고 있습니다.
   MySQL에 들어가셔서 MySQL Connections 옆의 "플러스" 부분을 클릭하여 자신이 원하는 Connection Name을 지정하고, 이를 Hostname에 붙여넣습니다. 그리고 password에 설치할 당시 입력했던 password를 입력하고 OK로 마무리를 합니다.
 2. Generate Schemas
    위에서 만든 서버에 접속해서 schemas 창에서 우클릭을 통해 새 schema를 생성하게 되면 tables 등 다양한 아이콘이 나타나게 됩니다.
-  
+   이때, Default Charset, Default Collation은 각각 utf-8, utf8_unicude_ci로 설정하시면 됩니다(한국어를 잘 불러오기 위함입니다.)
+
+# Load csv files
+  기본적으로 두가지의 방식이 있으며, 각 단계는 크게 두가지로 이루어집니다(틀 생성, 데이터 입력).
+  ## MySQL에 내장된 방식
+  1. 틀 생성
+     * 생성한 schema를 우클릭하여 Table Data import Wizard 실행
+     
+     
+     
 
    
 
